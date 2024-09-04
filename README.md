@@ -4,7 +4,7 @@ Welcome to the GoNest CLI! This CLI tool is designed to help developers quickly 
 
 ## Features
 
-- **Project Creation**: Quickly create new GoNest projects with the `gn create-project` command.
+- **Project Creation**: Quickly create new GoNest projects with the `gn new` command.
 - **Module Generation**: Add new modules to your GoNest project effortlessly.
 - **Clean Architecture**: The CLI scaffolds projects and modules that follow clean architecture principles.
 - **Easy to Extend**: You can add more commands or customize the CLI for your specific needs.
@@ -20,7 +20,7 @@ Welcome to the GoNest CLI! This CLI tool is designed to help developers quickly 
 You can install the GoNest CLI by running the following command:
 
 ```bash
-go install github.com/go-nest-framework/go-nest-cli/cmd@latest
+go install github.com/go-nest-framework/go-nest-cli@latest
 ```
 
 After installation, you can run the CLI commands directly from your terminal using the gn command.
