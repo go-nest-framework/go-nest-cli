@@ -1,5 +1,5 @@
 /*
-Copyright © 2024 Go Nest Framework <gonestframework@gmail.com>
+Copyright © 2024 GO NEST FRAMEWORK <gonestframework@gmail.com>
 */
 
 package cmd
